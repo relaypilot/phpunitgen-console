@@ -33,8 +33,7 @@
     "phpunitgen/core": "^4.0",
     "symfony/console": "^4.4 || ^5.0 || ^6.0 || ^7.0",
     "symfony/stopwatch": "^4.3 || ^5.0 || ^6.0 || ^7.0",
-    "symfony/yaml": "^4.3 || ^5.0 || ^6.0 || ^7.0",
-    "tightenco/collect": "^8.0 || ^9.0"
+    "symfony/yaml": "^4.3 || ^5.0 || ^6.0 || ^7.0"
   },
   "require-dev": {
     "laravel/framework": "^9.0",
