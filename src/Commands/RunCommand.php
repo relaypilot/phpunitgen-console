@@ -48,7 +48,7 @@ class RunCommand extends Command
     /**
      * {@inheritdoc}
      */
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         return $this->executeCommand($this->runner, $input, $output);
     }
