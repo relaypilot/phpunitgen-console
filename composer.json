@@ -30,7 +30,7 @@
     "ext-json": "*",
     "league/container": "^3.3",
     "league/flysystem": "^3.0",
-    "phpunitgen/core": "^4.0",
+    "phpunitgen/core": "dev-main",
     "symfony/console": "^7.0",
     "symfony/stopwatch": "^7.0",
     "symfony/yaml": "^7.0",
@@ -46,6 +46,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/relaypilot/collect"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/relaypilot/phpunitgen-core"
         }
     ],
   "autoload": {
